@@ -31,7 +31,10 @@ ___
 3. Identify what the problem it wants you to solve is.
 	> Or if it does not have a problem, identify what problems exist which can be tied to the motion. There's a likelihood that solving is not the way to go; rather, it could be assessing the value of something.
 4. Think of the realities that the motion is trying to point out; and don't try to stray away fromit,t even if it might be harmful to your side.
-**Practice analysing motions, and try to formulate arguments.** Here are some motions you can practice with:
+
+### Practice analysing motions, and try to formulate arguments. 
+
+Here are some motions you can practice with:
 - THBT technology has done more harm than good
 - THW decriminalize sex work
 - THBT the Philippine democracy has failed
@@ -43,7 +46,7 @@ ___
 
 **Yes, there are strategies and concepts everyone must know in prep time.** Prep time is not just *"Oh these are my arguments, and I think this and tha, and they might think this and that"*. Well, it is basically that, but that fails you most of the time. It fails because it wastes time, and it doesn't really help your team have a cohesive case-line.
 
-#### So what must you do?
+### So what must you do?
 
 1. Analyse the motion properly
 2. You must have designations in your team   
@@ -57,9 +60,9 @@ ___
    > For example:
      >> THW decriminalize recreational drugs
        >> **You could spout the following nonsense**:
-       >> * recreational drugs isn't inherently bad;
-       >> * poor mental healthcare is our enemy;
-       >> * and other stuff that could be your main idea/anchor.
+   >> * recreational drugs isn't inherently bad;
+   >> * poor mental healthcare is our enemy;
+   >> * and other stuff that could be your main idea/anchor.
 
 4. Make sure that you have a time for thinking, discussing, and prepping your speeches. For example, you could spend the first 5 mins of prep for thinking individually; 10 mins to discuss the motion; and 15 mins to prep your speeches individually. Remember that prepping is a time to formulate not only your case, but also your speeches; and it's not like everyone is a genius who doesn't need to contemplate first, so remember to have time for thinking.
 5. During the team discussion, make sure you discuss the ff.   
