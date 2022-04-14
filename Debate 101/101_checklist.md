@@ -1,0 +1,6 @@
+- [ ] Positions
+- [x] Motion analysis
+- [x] Arguments
+- [x] Characcterizations
+- [ ] Burdens
+- [x] Prep
