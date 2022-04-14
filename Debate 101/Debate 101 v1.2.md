@@ -59,6 +59,7 @@ ___
 3. Have a main idea everyone goes back to as your main case-line. If there is/are none, you most likely would not have cohesive speeches. This can be the main goal of your house, or the problem you're trying to solve, or the reality you are trying to change/retain. Whatever it is, you'll always go back to it during prep and during your speech.   
 > For example:
 >> THW decriminalize recreational drugs
+>> 
 >> **You could spout the following nonsense:**
 >> * recreational drugs are not inherently harmful
 >> * poor mental healthcare is our enemy
