@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "46e6715f3c51aa6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "481f74b19a0e318d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Debate 101/Positions, Formats, and Burdens - AsPar V1.0.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35e83ae8c50b3dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f91503edbf06eae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ade4e647ba397ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdd27f79908df859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ce57d9ae70d0bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "456ccb0fb23cc0d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd8de0e886ed92c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Debate 101/Positions, Formats, and Burdens - AsPar V1.0.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80c71f873bb5ac21",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "481f74b19a0e318d",
+  "lastOpenFiles": [
+    "Debate 101/Positions, Formats, and Burdens - AsPar V1.0.md",
+    "Debate 101/Debate 101 v1.2.md",
+    "Adj Notes/Opposition Side.md",
+    "Adj Notes/Government Side.md",
+    "Ukraine, NATO, Russia/Geographical Motivations.md",
+    "Ukraine, NATO, Russia/Political Motivations.md",
+    "Ukraine, NATO, Russia/meta/Carpathian Mountain Range.md",
+    "Ukraine, NATO, Russia/meta/West.md",
+    "Ukraine, NATO, Russia/meta/Warsaw Pact.md",
+    "Ukraine, NATO, Russia/meta/Pasted image 20220301214608.png"
+  ]
+}
