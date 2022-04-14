@@ -54,12 +54,6 @@ ___
 
 It is not enough for debaters to know how to make speeches and make cases; or formulate arguments and defending their stances, no matter how outlandish. **One of the most important skills to have as debaters is being able to identify the burdens.** In this section, you will learn what burdens are. 
 
-uwu 
-uwu 
-uwu 
-uwu 
-uwu 
-
 ___
 
 #### Change Log
