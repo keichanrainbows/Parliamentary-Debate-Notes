@@ -1,6 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "promptDelete": false,
   "spellcheckLanguages": [
     "en-GB"
@@ -17,5 +17,6 @@
     "UwU",
     "Shanking",
     " chuchu"
-  ]
+  ],
+  "smartIndentList": false
 }

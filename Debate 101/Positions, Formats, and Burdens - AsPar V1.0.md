@@ -1,4 +1,5 @@
 # Positions, Formats and Burdens - AsPar
+Current version: 0.1
 
 #### **Disclaimer: This is a Kei guide, so the information here is not necessarily factual or correct; rather, it is a guide of how he understands the basics of debate tactics and theory.**
 
@@ -55,6 +56,14 @@ ___
 It is not enough for debaters to know how to make speeches and make cases; or formulate arguments and defending their stances, no matter how outlandish. **One of the most important skills to have as debaters is being able to identify the burdens.** 
 
 ### What are burdens?
+
+Burdens are the 
+
+(**Section to be completed at a later date**)
+
+___
+
+## Speech Formats: The Essentials
 
 
 ___

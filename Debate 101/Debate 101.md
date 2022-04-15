@@ -1,4 +1,5 @@
 # Debate 101
+Current version: 1.2
 
 *This guide assumes that you already know shit about parli debating... if you don't, learn it first. This ain't gon make sense if you don't know shit.*
 
@@ -57,13 +58,13 @@ ___
    ##### 3. Have a **Devil's Advocate**
       > These people are the ones good at poking holes and criticizing the positive contributions during prep. They make sure that the ideas can stand up to criticism. They have to be good at asking questions that test the credibility and strength of ideas, and giving criticism. Furthermore, they are essential in making sure that the final ideas presented during speeches are solid and grounded, if not foolproof.
 3. Have a main idea everyone goes back to as your main case-line. If there is/are none, you most likely would not have cohesive speeches. This can be the main goal of your house, or the problem you're trying to solve, or the reality you are trying to change/retain. Whatever it is, you'll always go back to it during prep and during your speech.   
-> For example:
->> THW decriminalize recreational drugs
->> 
->> **You could spout the following nonsense:**
->> * recreational drugs are not inherently harmful
->> * poor mental healthcare is our enemy
->> * and other stuff that could be your main idea/anchor
+    > For example:
+    >> THW decriminalize recreational drugs
+    >> 
+    >> **You could spout the following nonsense:**
+    >> * recreational drugs are not inherently harmful
+    >> * poor mental healthcare is our enemy
+    >> * and other stuff that could be your main idea/anchor
 
 4. Make sure that you have a time for thinking, discussing, and prepping your speeches. For example, you could spend the first 5 mins of prep for thinking individually; 10 mins to discuss the motion; and 15 mins to prep your speeches individually. Remember that prepping is a time to formulate not only your case, but also your speeches; and it's not like everyone is a genius who doesn't need to contemplate first, so remember to have time for thinking.
 5. During the team discussion, make sure you discuss the ff.   
@@ -126,6 +127,5 @@ ___
 | Version | Changes                                                                                       | Date          |
 | ------- | --------------------------------------------------------------------------------------------- | ------------- |
 | 1.0     | File created                                                                                  | 12 April 2022 |
-| 1.1     | Minor grammar edits, and format changes: For grammer mistakes and format mismatches.          | 13 April 2022 |
-| 1.2     | Major format changes, and minor grammar edits: for readability and formatting best-practices. | 14 April 2022               |
-
+| 1.1     | Minor grammar edits, and format changes: For grammar mistakes and format mismatches.          | 13 April 2022 |
+| 1.2     | Major format changes, and minor grammar edits: for readability and formatting best-practices. | 14 April 2022 |
